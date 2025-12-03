@@ -44,6 +44,11 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal:
    
     <img width="400" height="400" alt="db" src="https://github.com/user-attachments/assets/a9f300aa-e4c6-4c98-8e74-e2d479d4490b" />
 
+4. **Konfigurasi Postgresql**
+
+    **Klik kanan pada database create database**
+    ![WhatsApp Image 2025-12-03 at 10 39 30](https://github.com/user-attachments/assets/31e9dfa6-f195-456b-9555-72bfa4282830)
+
 
 
 

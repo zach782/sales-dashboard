@@ -40,7 +40,8 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal:
    
 3. **Konfigurasi database**
     **Sesuaikan pengaturan database di .env:**
-    <img width="354" height="400" alt="db" src="https://github.com/user-attachments/assets/a9f300aa-e4c6-4c98-8e74-e2d479d4490b" />
+   
+    <img width="400" height="400" alt="db" src="https://github.com/user-attachments/assets/a9f300aa-e4c6-4c98-8e74-e2d479d4490b" />
 
 
 

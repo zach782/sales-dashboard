@@ -30,8 +30,8 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal:
 
 1. **Clone repository**  
    ```bash
-   git clone https://github.com/username/repository-name.git
-   cd repository-name
+   git clone https://github.com/zach782/sales-dashboard.git
+   cd sales-dashboard
 
 
 

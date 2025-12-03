@@ -60,8 +60,10 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal:
    
    <img width="400" height="400" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/17312cd1-8304-4a10-bc72-4fbbcd9c4444" />
 
+7. **Preview tampilan di browser**
+   
+    <img width="720" height="550" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/08d73b92-2821-43c8-bb8a-46bc5e6f8bd7" />
 
-    
 
 
 ## License

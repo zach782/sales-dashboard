@@ -64,6 +64,20 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal:
    
     <img width="720" height="550" alt="Screenshot (27)" src="https://github.com/user-attachments/assets/08d73b92-2821-43c8-bb8a-46bc5e6f8bd7" />
 
+8. **Mengakses Aplikasi yang Dihosting**
+
+    Aplikasi sudah di-deploy dan dapat diakses langsung melalui browser di alamat berikut:  
+    
+    **[https://zasapt.web.id/](https://zasapt.web.id/)**
+    
+    Cukup buka link tersebut, dan Anda bisa langsung menggunakan semua fitur aplikasi, termasuk:  
+    
+    - Filter data penjualan berdasarkan tanggal  
+    - Melihat ringkasan total penjualan, total transaksi, dan produk terjual  
+    - Menampilkan grafik tren penjualan dan penjualan per produk  
+    
+    Tidak perlu instalasi tambahan jika hanya ingin mengakses aplikasi secara online.
+
 
 
 ## License

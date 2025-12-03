@@ -52,7 +52,15 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal:
    **Klik kanan pada salesdb lalu pilih restore dan arahkan ke file saledb.sql yang ada di folder sales-dashboard lalu klik restore**
    ![WhatsApp Image 2025-12-03 at 10 39 30(1)](https://github.com/user-attachments/assets/2d686304-b1f5-42f1-90bb-af57f8f2002c)
 
+5. **Jalankan server lokal**
+   ```bash
+   php artisan serve
 
+6. **Jalankan server di browser**
+   <img width="391" height="107" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/17312cd1-8304-4a10-bc72-4fbbcd9c4444" />
+
+
+    
 
 
 ## License

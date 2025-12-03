@@ -57,7 +57,8 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal:
    php artisan serve
 
 6. **Jalankan server di browser**
-   <img width="391" height="107" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/17312cd1-8304-4a10-bc72-4fbbcd9c4444" />
+   
+   <img width="400" height="400" alt="Screenshot (26)" src="https://github.com/user-attachments/assets/17312cd1-8304-4a10-bc72-4fbbcd9c4444" />
 
 
     

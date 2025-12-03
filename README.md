@@ -38,9 +38,9 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal:
    composer install
    npm install
    
-3. **Konfigurasi database
-    Sesuaikan pengaturan database di .env:**
-    <img width="604" height="520" alt="db" src="https://github.com/user-attachments/assets/a9f300aa-e4c6-4c98-8e74-e2d479d4490b" />
+3. **Konfigurasi database**
+    **Sesuaikan pengaturan database di .env:**
+    <img width="354" height="400" alt="db" src="https://github.com/user-attachments/assets/a9f300aa-e4c6-4c98-8e74-e2d479d4490b" />
 
 
 

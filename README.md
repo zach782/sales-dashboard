@@ -32,7 +32,12 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal:
    ```bash
    git clone https://github.com/zach782/sales-dashboard.git
    cd sales-dashboard
-
+   
+2. **Install dependencies**  
+   ```bash
+   composer install
+   npm install
+   
 
 
 

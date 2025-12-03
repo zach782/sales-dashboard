@@ -49,6 +49,9 @@ Ikuti langkah-langkah berikut untuk menjalankan proyek ini di komputer lokal:
     **Klik kanan pada database create database**
     ![WhatsApp Image 2025-12-03 at 10 39 30](https://github.com/user-attachments/assets/31e9dfa6-f195-456b-9555-72bfa4282830)
 
+   **Klik kanan pada salesdb lalu pilih restore dan arahkan ke file saledb.sql yang ada di folder sales-dashboard lalu klik restore**
+   ![WhatsApp Image 2025-12-03 at 10 39 30(1)](https://github.com/user-attachments/assets/2d686304-b1f5-42f1-90bb-af57f8f2002c)
+
 
 
 
